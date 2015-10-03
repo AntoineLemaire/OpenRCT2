@@ -1756,9 +1756,9 @@ STR_1750    :{DURATION}
 STR_1751    :Can't change time limit for ride...
 STR_1752    :{SMALLFONT}{BLACK}Show list of individual guests in park
 STR_1753    :{SMALLFONT}{BLACK}Show summarised list of guests in park
-STR_1754    :{BLACK}{COMMA16} guests
-STR_1755    :{BLACK}{COMMA16} guest
-STR_1756    :{WINDOW_COLOUR_2}Admission price:
+STR_1754    :{BLACK}{COMMA16} visiteurs
+STR_1755    :{BLACK}{COMMA16} visiteur
+STR_1756    :{WINDOW_COLOUR_2}Prix d'entrée:
 STR_1757    :{WINDOW_COLOUR_2}Reliability: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1758    :{SMALLFONT}{BLACK}Build mode
 STR_1759    :{SMALLFONT}{BLACK}Move mode
@@ -1779,19 +1779,19 @@ STR_1773    :Only one on-ride photo section allowed per ride
 STR_1774    :Only one cable lift hill allowed per ride
 STR_1775    :Éteint
 STR_1776    :Allumé
-STR_1777    :{WINDOW_COLOUR_2}Music
+STR_1777    :{WINDOW_COLOUR_2}Musique
 STR_1778    :{STRINGID} - - 
-STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
-STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiger costume
-STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elephant costume
-STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roman costume
-STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Gorilla costume
-STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Snowman costume
-STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Knight costume
-STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaut costume
-STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandit costume
-STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Sheriff costume
-STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirate costume
+STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Costume de panda
+STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Costume de tigre
+STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Costume d'élephant
+STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Costume de romain
+STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Costume de gorille
+STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Costume de bonhomme de neige
+STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Costume de chevalier
+STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Costume d'astronaute
+STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Costume de bandit
+STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Costume de sheriff
+STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Costume de pirate
 STR_1790    :{SMALLFONT}{BLACK}Select uniform colour for this type of staff
 STR_1791    :{WINDOW_COLOUR_2}Uniform colour:
 STR_1792    :Responding to {STRINGID} breakdown call
@@ -2130,16 +2130,16 @@ STR_2122    :On-Ride Photo
 STR_2123    :On-Ride Photo
 STR_2124    :On-Ride Photo
 STR_2125    :Pretzel
-STR_2126    :Hot Chocolate
-STR_2127    :Iced Tea
+STR_2126    :Chocolat chaud
+STR_2127    :Thé froid
 STR_2128    :Funnel Cake
-STR_2129    :Sunglasses
-STR_2130    :Beef Noodles
-STR_2131    :Fried Rice Noodles
-STR_2132    :Wonton Soup
-STR_2133    :Meatball Soup
-STR_2134    :Fruit Juice
-STR_2135    :Soybean Milk
+STR_2129    :Lunette de soleil
+STR_2130    :Nouilles au boeuf
+STR_2131    :Nouilles de riz sautées
+STR_2132    :Soupe Wonton
+STR_2133    :Soupe aux boulettes de viande
+STR_2134    :Jus de fruit
+STR_2135    :Lait de soja
 STR_2136    :Sujongkwa
 STR_2137    :Sub Sandwich
 STR_2138    :Cookie
@@ -2152,7 +2152,7 @@ STR_2144    :On-Ride Photos
 STR_2145    :On-Ride Photos
 STR_2146    :On-Ride Photos
 STR_2147    :Pretzels
-STR_2148    :Hot Chocolates
+STR_2148    :Chocolat chaud
 STR_2149    :Iced Teas
 STR_2150    :Funnel Cakes
 STR_2151    :Sunglasses
@@ -2160,24 +2160,24 @@ STR_2152    :Beef Noodles
 STR_2153    :Fried Rice Noodles
 STR_2154    :Wonton Soups
 STR_2155    :Meatball Soups
-STR_2156    :Fruit Juices
-STR_2157    :Soybean Milks
+STR_2156    :Jus de fruit
+STR_2157    :Lait de soja
 STR_2158    :Sujongkwa
 STR_2159    :Sub Sandwiches
 STR_2160    :Cookies
-STR_2161    :Empty Bowls
+STR_2161    :Bol vide
 STR_2162    :Empty Drink Cartons
 STR_2163    :Empty Juice cups
 STR_2164    :Roast Sausages
-STR_2165    :Empty Bowls
+STR_2165    :Bol vide
 STR_2166    :an On-Ride Photo
 STR_2167    :an On-Ride Photo
 STR_2168    :an On-Ride Photo
-STR_2169    :a Pretzel
-STR_2170    :a Hot Chocolate
-STR_2171    :an Iced Tea
+STR_2169    :un Pretzel
+STR_2170    :un Chocolat chaud
+STR_2171    :un Thé froid
 STR_2172    :a Funnel Cake
-STR_2173    :a pair of Sunglasses
+STR_2173    :une paire de lunette de soleil
 STR_2174    :some Beef Noodles
 STR_2175    :some Fried Rice Noodles
 STR_2176    :some Wonton Soup
@@ -2186,7 +2186,7 @@ STR_2178    :a Fruit Juice
 STR_2179    :some Soybean Milk
 STR_2180    :some Sujongkwa
 STR_2181    :a Sub Sandwich
-STR_2182    :a Cookie
+STR_2182    :un Cookie
 STR_2183    :an Empty Bowl
 STR_2184    :an Empty Drink Carton
 STR_2185    :an Empty Juice Cup
@@ -2196,20 +2196,20 @@ STR_2188    :On-Ride Photo of {STRINGID}
 STR_2189    :On-Ride Photo of {STRINGID}
 STR_2190    :On-Ride Photo of {STRINGID}
 STR_2191    :Pretzel
-STR_2192    :Hot Chocolate
-STR_2193    :Iced Tea
+STR_2192    :Chocolate chaud
+STR_2193    :Tea froid
 STR_2194    :Funnel Cake
-STR_2195    :Sunglasses
-STR_2196    :Beef Noodles
-STR_2197    :Fried Rice Noodles
-STR_2198    :Wonton Soup
-STR_2199    :Meatball Soup
-STR_2200    :Fruit Juice
-STR_2201    :Soybean Milk
+STR_2195    :Lunettes de soleil
+STR_2196    :Nouilles au boeuf
+STR_2197    :Nouilles de riz sautées 
+STR_2198    :Soupe Wonton 
+STR_2199    :Soupe aux boulettes de viande
+STR_2200    :Jus de fruit
+STR_2201    :Lait de soja
 STR_2202    :Sujongkwa
 STR_2203    :Sub Sandwich
 STR_2204    :Cookie
-STR_2205    :Empty Bowl
+STR_2205    :Bol vide
 STR_2206    :Empty Drink Carton
 STR_2207    :Empty Juice Cup
 STR_2208    :Roast Sausage
@@ -2224,10 +2224,10 @@ STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}F
 STR_2218    :{RED}{STRINGID} on {STRINGID} hasn't returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
 STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
-STR_2220    :{WINDOW_COLOUR_2}Park Rating: {BLACK}{COMMA16}
-STR_2221    :{SMALLFONT}{BLACK}Park Rating: {COMMA16}
+STR_2220    :{WINDOW_COLOUR_2}Evaluation du parc : {BLACK}{COMMA16}
+STR_2221    :{SMALLFONT}{BLACK}Evaluation du parc : {COMMA16}
 STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}Guests in park: {BLACK}{COMMA16}
+STR_2223    :{WINDOW_COLOUR_2}Visiteurs dans le parc : {BLACK}{COMMA16}
 STR_2224    :{WINDOW_COLOUR_2}Argent: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Argent: {RED}{CURRENCY2DP}
 STR_2226    :{WINDOW_COLOUR_2}Valeur du parc: {BLACK}{CURRENCY}
@@ -2237,8 +2237,8 @@ STR_2229    :Slope up to vertical
 STR_2230    :Vertical track
 STR_2231    :Holding brake for drop
 STR_2232    :Cable lift hill
-STR_2233    :{SMALLFONT}{BLACK}Park information
-STR_2234    :Recent Messages
+STR_2233    :{SMALLFONT}{BLACK}Information du parc
+STR_2234    :Messages récents
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
 STR_2236    :Janvier
 STR_2237    :Février
@@ -2268,7 +2268,7 @@ STR_2260    :Aucun financement
 STR_2261    :Financement minimum
 STR_2262    :Financement normal
 STR_2263    :Financement maximum
-STR_2264    :Research funding
+STR_2264    :Financement recherche
 STR_2265    :{WINDOW_COLOUR_2}Coût: {BLACK}{CURRENCY} par mois
 STR_2266    :Priorités recherches
 STR_2267    :En cours de développement
@@ -2289,13 +2289,13 @@ STR_2281    :Attraction frisson
 STR_2282    :Attraction aquatique
 STR_2283    :Magasins et boutiques
 STR_2284    :Décor et thèmes
-STR_2285    :Initial research
-STR_2286    :Designing
-STR_2287    :Completing design
-STR_2288    :Unknown
+STR_2285    :Recherche initiale
+STR_2286    :Conception
+STR_2287    :Fin de la conception
+STR_2288    :Inconnu
 STR_2289    :{STRINGID} {STRINGID}
 STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
-STR_2291    :Choisir scénario pour nouvelle partie
+STR_2291    :Choisir le scénario pour une nouvelle partie
 STR_2292    :{WINDOW_COLOUR_2}Rides been on:
 STR_2293    :{BLACK} Nothing
 STR_2294    :{SMALLFONT}{BLACK}Change base land style
@@ -2325,18 +2325,18 @@ STR_2317    :<not used anymore>
 STR_2318    :<not used anymore>
 STR_2319    :<not used anymore>
 STR_2320    :<not used anymore>
-STR_2321    :{WINDOW_COLOUR_2}Nombre d'attractions: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Personnel: {BLACK}{COMMA16}
-STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
-STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
+STR_2321    :{WINDOW_COLOUR_2}Nombre d'attractions : {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}Personnel : {BLACK}{COMMA16}
+STR_2323    :{WINDOW_COLOUR_2}Taille du parc : {BLACK}{COMMA32}m{SQUARED}
+STR_2324    :{WINDOW_COLOUR_2}Taille du parc : {BLACK}{COMMA32}sq.ft.
 STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
 STR_2326    :{SMALLFONT}{BLACK}Buy construction rights to allow construction above or below land outside the park
 STR_2327    :Options
-STR_2328    :{WINDOW_COLOUR_2}Currency:
-STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
-STR_2330    :{WINDOW_COLOUR_2}Temperature:
-STR_2331    :{WINDOW_COLOUR_2}Height Labels:
-STR_2332    :Units
+STR_2328    :{WINDOW_COLOUR_2}Devise :
+STR_2329    :{WINDOW_COLOUR_2}Distance, vitesse :
+STR_2330    :{WINDOW_COLOUR_2}Température :
+STR_2331    :{WINDOW_COLOUR_2}Altitude :
+STR_2332    :Unité
 STR_2333    :Son
 STR_2334    :Pounds ({POUND})
 STR_2335    :Dollars ($)
@@ -2348,9 +2348,9 @@ STR_2340    :Lira (L)
 STR_2341    :Florins (fl.)
 STR_2342    :Krona (kr)
 STR_2343    :Euros ({EURO})
-STR_2344    :Imperial
-STR_2345    :Metric
-STR_2346    :Display
+STR_2344    :Impérial
+STR_2345    :Métrique
+STR_2346    :Affichage
 STR_2347    :{RED}{STRINGID} has drowned!
 STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
 STR_2349    :{WINDOW_COLOUR_2}Wages: {BLACK}{CURRENCY} per month
@@ -2364,10 +2364,10 @@ STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
 STR_2357    :House
 STR_2358    :Units
 STR_2359    :Real Values
-STR_2360    :{WINDOW_COLOUR_2}Display Resolution:
-STR_2361    :Landscape Smoothing
+STR_2360    :{WINDOW_COLOUR_2}Résolution d'affichage:
+STR_2361    :Lisser le terrain
 STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
-STR_2363    :Gridlines on Landscape
+STR_2363    :Quadrillage sur le terrain
 STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
 STR_2365    :The bank refuses to increase your loan!
 STR_2366    :Celsius ({DEGREE}C)
@@ -2390,24 +2390,24 @@ STR_2382    :Land
 STR_2383    :Water
 STR_2384    :{WINDOW_COLOUR_2}Votre objectif:
 STR_2385    :{BLACK}Aucun
-STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Have Fun!
+STR_2386    :{BLACK}Avoir au moins {COMMA16} visiteurs dans votre parc à la fin {MONTHYEAR}, avec une évaluation du parc d'au moins 600
+STR_2387    :{BLACK}Atteindre une valeur de parc d'au moins {POP16}{POP16}{CURRENCY} à la fin {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
+STR_2388    :{BLACK}Amusez-vous !
 STR_2389    :{BLACK}Build the best {STRINGID} you can!
 STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}Obtenir un revenu mensuel avec les tickets d'attraction d'au moins {POP16}{POP16}{CURRENCY}
+STR_2391    :{BLACK}Avoir au moins {COMMA16} visiteurs dans votre parc. L'évalutation du parc ne doit jamais descendre en dessous de 700 à aucun moment !
+STR_2392    :{BLACK}Obtenir un revenu mensuel avec les tickets d'attractions d'au moins {POP16}{POP16}{CURRENCY}
 STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
 STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
 STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
 STR_2397    :Aucun
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
-STR_2400    :Have fun
+STR_2398    :Nombre de visiteurs à une date donnée
+STR_2399    :Evaluation du parc à une date donnée
+STR_2400    :Amusez-vous
 STR_2401    :Build the best ride you can
 STR_2402    :Build 10 roller coasters
-STR_2403    :Number of guests in park
+STR_2403    :Nombre de visiteurs dans le parc
 STR_2404    :Monthly income from ride tickets
 STR_2405    :Build 10 roller coasters of a given length
 STR_2406    :Finish building 5 roller coasters
@@ -2419,27 +2419,27 @@ STR_2411    :{WINDOW_COLOUR_2}Campagnes marketing disponibles
 STR_2412    :{SMALLFONT}{BLACK}Commencer campagne marketing
 STR_2413    :{BLACK}({CURRENCY2DP} per week)
 STR_2414    :(Not Selected)
-STR_2415    :{WINDOW_COLOUR_2}Attraction:
-STR_2416    :{WINDOW_COLOUR_2}Item:
-STR_2417    :{WINDOW_COLOUR_2}Length of time:
-STR_2418    :Free entry to {STRINGID}
-STR_2419    :Free ride on {STRINGID}
-STR_2420    :Half-price entry to {STRINGID}
-STR_2421    :Free {STRINGID}
-STR_2422    :Advertising campaign for {STRINGID}
-STR_2423    :Advertising campaign for {STRINGID}
-STR_2424    :{WINDOW_COLOUR_2}Vouchers for free entry to the park
+STR_2415    :{WINDOW_COLOUR_2}Attraction :
+STR_2416    :{WINDOW_COLOUR_2}Article :
+STR_2417    :{WINDOW_COLOUR_2}Durée :
+STR_2418    :Entrée gratuite à {STRINGID}
+STR_2419    :Ticket gratuit sur {STRINGID}
+STR_2420    :Entrée demi-tarif à {STRINGID}
+STR_2421    :Bon gratuit pour {STRINGID}
+STR_2422    :Campagne marketing pour {STRINGID}
+STR_2423    :Campagne marketing pour {STRINGID}
+STR_2424    :{WINDOW_COLOUR_2}Bons pour une entrée gratuite au parc
 STR_2425    :{WINDOW_COLOUR_2}Bons pour une attraction gratuite
-STR_2426    :{WINDOW_COLOUR_2}Vouchers for half-price entry to the park
+STR_2426    :{WINDOW_COLOUR_2}Bons pour une entrée demi-tarif au parc
 STR_2427    :{WINDOW_COLOUR_2}Bons pour nourriture/boisson gratuites
 STR_2428    :{WINDOW_COLOUR_2}Campagne publicitaire pour le parc
 STR_2429    :{WINDOW_COLOUR_2}Campagne publicitaire pour une attraction
-STR_2430    :{BLACK}Vouchers for free entry to {STRINGID}
-STR_2431    :{BLACK}Vouchers for free ride on {STRINGID}
-STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
-STR_2433    :{BLACK}Vouchers for free {STRINGID}
-STR_2434    :{BLACK}Advertising campaign for {STRINGID}
-STR_2435    :{BLACK}Advertising campaign for {STRINGID}
+STR_2430    :{BLACK}Bons pour une entrée gratuite à {STRINGID}
+STR_2431    :{BLACK}Bons pour tour gratuit sur {STRINGID}
+STR_2432    :{BLACK}Bons pour une entrée demi-tarif à {STRINGID}
+STR_2433    :{BLACK}Bons gratuit pour {STRINGID}
+STR_2434    :{BLACK}Campagne marketing pour {STRINGID}
+STR_2435    :{BLACK}Campagne marketing pour {STRINGID}
 STR_2436    :1 semaine
 STR_2437    :<not used anymore>
 STR_2438    :<not used anymore>
@@ -2490,11 +2490,11 @@ STR_2482    :{SMALLFONT}{BLACK}Bénéfice: {CURRENCY} par semaine,  Valeur du pa
 STR_2483    :{WINDOW_COLOUR_2}Weekly profit: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Weekly profit: {RED}{CURRENCY2DP}
 STR_2485    :Controls
-STR_2486    :General
+STR_2486    :Général
 STR_2487    :Afficher le 'vrai' nom des visiteurs
 STR_2488    :{SMALLFONT}{BLACK}Toggle between showing 'real' names of guests and guest numbers
-STR_2489    :Shortcut keys...
-STR_2490    :Keyboard shortcuts
+STR_2489    :Raccourcis...
+STR_2490    :Clavier raccourcis
 STR_2491    :Reset keys
 STR_2492    :{SMALLFONT}{BLACK}Set all keyboard shortcuts back to default settings
 STR_2493    :Close top-most window
@@ -2742,7 +2742,7 @@ STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
 STR_2736    :{MONTH}, an {COMMA16}
 STR_2737    :{STRINGID} {MONTH}, an {COMMA16}
-STR_2738    :Title screen music:
+STR_2738    :Musique de l'écran d'accueil :
 STR_2739    :Aucun
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
@@ -2778,10 +2778,10 @@ STR_2769    :Ouvrir le parc
 STR_2770    :Fermer le parc
 STR_2771    :Slower Gamespeed
 STR_2772    :Faster Gamespeed
-STR_2773    :En une fenêtre
+STR_2773    :Fenêtré
 STR_2774    :Plein écran
 STR_2775    :Plein écran (desktop)
-STR_2776    :Langue:
+STR_2776    :Langue :
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
 # End of new strings
@@ -2806,8 +2806,8 @@ STR_2796    :{SMALLFONT}{BLACK}Sort the ride list into order using the informati
 STR_2797    :Scroll view when pointer at screen edge
 STR_2798    :{SMALLFONT}{BLACK}Select whether to scroll the view when the mouse pointer is at the screen edge
 STR_2799    :{SMALLFONT}{BLACK}View or change control key assignments
-STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
-STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
+STR_2800    :{WINDOW_COLOUR_2}Nombre total d'entrées : {BLACK}{COMMA32}
+STR_2801    :{WINDOW_COLOUR_2}Revenu issu des entrées : {BLACK}{CURRENCY2DP}
 STR_2802    :Plan
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
@@ -3456,7 +3456,7 @@ STR_3446    :Annuler Zone de Patrouille
 
 # New strings, cleaner
 STR_5120    :Finances
-STR_5121    :Research
+STR_5121    :Recherche
 STR_5122    :Select rides by track type (like in RCT1)
 STR_5123    :Renouveler attr.
 STR_5124    :<not used anymore>
@@ -3498,9 +3498,9 @@ STR_5157    :Unlock all prices
 STR_5158    :Quit to menu
 STR_5159    :Quitter OpenRCT2
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, an {POP16}{COMMA16}
-STR_5161    :Date Format:
-STR_5162    :Day/Month/Year
-STR_5163    :Month/Day/Year
+STR_5161    :Format de la date :
+STR_5162    :Jour/Mois/Année
+STR_5163    :Mois/Jour/Année
 STR_5164    :Twitch Channel name
 STR_5165    :Name peeps after followers
 STR_5166    :{SMALLFONT}{BLACK}Will name peeps after channel's Twitch followers
@@ -3513,7 +3513,7 @@ STR_5172    :{SMALLFONT}{BLACK}Will turn on tracking information for guests name
 STR_5173    :Pull Twitch chat as news
 STR_5174    :{SMALLFONT}{BLACK}Will use Twitch chat messages preceded by !news for in game notifications
 STR_5175    :Input the name of your Twitch channel
-STR_5176    :Enable Twitch integration
+STR_5176    :Activer l'intégration Twitch
 STR_5177    :Fullscreen mode:
 STR_5178    :{SMALLFONT}{BLACK}Show financial cheats
 STR_5179    :{SMALLFONT}{BLACK}Show guest cheats
@@ -3525,13 +3525,13 @@ STR_5184    :Enter base height between {COMMA16} and {COMMA16}
 STR_5185    :Water level
 STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
 STR_5187    :Finances
-STR_5188    :New Campaign
-STR_5189    :Research
-STR_5190    :Map
+STR_5188    :Nouvelle campagne
+STR_5189    :Recherche
+STR_5190    :Carte
 STR_5191    :Viewport
 STR_5192    :Recent News
-STR_5193    :Land
-STR_5194    :Water
+STR_5193    :Terrain
+STR_5194    :Eau
 STR_5195    :Clear Scenery
 STR_5196    :Land Rights
 STR_5197    :Scenery
@@ -3575,11 +3575,11 @@ STR_5234    :{SMALLFONT}{BLACK}Prompts
 STR_5235    :{SMALLFONT}{BLACK}Settings
 STR_5236    :Window:
 STR_5237    :Palette:
-STR_5238    :Current Theme:
+STR_5238    :Thème actuel :
 STR_5239    :Duplicate
-STR_5240    :Enter a name for the theme
-STR_5241    :Can't change this theme
-STR_5242    :Theme name already exists
+STR_5240    :Entrer un nom pour le thème
+STR_5241    :Impossible d'éditer ce thème
+STR_5242    :Ce nom de thème existe déjà
 STR_5243    :Invalid characters used
 STR_5244    :Thèmes
 STR_5245    :Top Toolbar
@@ -3779,7 +3779,7 @@ STR_5438    :Can't make changes while command editor is open
 STR_5439    :A wait command with at least 4 seconds is required with a restart command
 STR_5440    :Minimise fullscreen on focus loss
 STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
-STR_5442    :Force park rating:
+STR_5442    :Forcer l'évaluation du parc :
 STR_5443    :Vitesse{MOVE_X}{87}{STRINGID}
 STR_5444    :Vitesse:
 STR_5445    :Vitesse
@@ -3800,23 +3800,23 @@ STR_5459    :Rotate anti-clockwise
 STR_5460    :Rotate view anti-clockwise
 STR_5461    :Set guests' parameters
 STR_5462    :{CURRENCY}
-STR_5463    :Goal: Have fun!
-STR_5464    :General
-STR_5465    :Climate
+STR_5463    :Objectif : Amusez-vous !
+STR_5464    :Général
+STR_5465    :Climat
 STR_5466    :Personnel
 STR_5467    :ALT + 
-STR_5468    :Recent messages
+STR_5468    :Messages récents
 STR_5469    :Scroll map up
 STR_5470    :Scroll map left
 STR_5471    :Scroll map down
 STR_5472    :Scroll map right
-STR_5473    :Cycle day / night
-STR_5474    :Display text on banners in upper case
+STR_5473    :Cycle jour / nuit
+STR_5474    :Afficher le texte sur les bannières en majuscule
 STR_5475    :{COMMA16} semaines
-STR_5476    :Hardware
-STR_5477    :Map rendering
-STR_5478    :Controls
-STR_5479    :Toolbar
+STR_5476    :Matériel
+STR_5477    :Rendu de la carte
+STR_5478    :Contrôles
+STR_5479    :Bar d'outils
 STR_5480    :Show toolbar buttons for:
 STR_5481    :Thèmes
 STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
@@ -3825,8 +3825,8 @@ STR_5484    :{BLACK}({COMMA16} week remaining)
 STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}Show recent messages
-STR_5488    :No entrance
+STR_5488    :Entrée interdite
 STR_5489    :{SMALLFONT}{BLACK}Show only tracked guests
-STR_5490    :Disable audio on focus loss
-STR_5491    :Inventions list
+STR_5490    :Couper le son lors de la perte du focus
+STR_5491    :Liste des inventions
 STR_5492    :Options scénario
